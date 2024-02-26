@@ -49,8 +49,11 @@ There is the ability to view all courses and the details of each course. There i
 4. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 5. Register and Login
 
-## Learn More
+## Would you mind support me?
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Star GitHub repo
+* Create pull requests, submit bugs, suggest new features or documentation updates.
+
+## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
