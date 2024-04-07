@@ -5,6 +5,11 @@ Welcome, this is a multi-language, multi-theme admin dashboard with registration
 There is the ability to view all courses and the details of each course. There is the ability to view all categories of courses, as well as the ability to add new categories and delete and edit new categories.
 
 
+
+https://github.com/khadijehsadeghi/react-admin-dashboard/assets/140825672/4d723548-ba95-4d09-bd22-d295c3d539a2
+
+
+
 # Features
 
 * Multi language (en & fa)
